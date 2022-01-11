@@ -492,7 +492,7 @@
 
   (footprint "Connector_RaspberryPi:Raspberry-Pi-4-Compute-Module_outline" (layer "F.Cu")
     (tedit 61A0AE68) (tstamp 0613609f-2bf0-444f-a9ca-7bd1239011b2)
-    (at 121.05 22.86 180)
+    (at 121.402 22.614 180)
     (descr "Raspberry Pi 4 Compute Module")
     (tags "Raspberry Pi 4 Compute Module")
     (property "Digi-Key_PN" "2x H11615CT-ND")
@@ -8781,7 +8781,7 @@
 
   (footprint "Mechanical_CoolingBlock:53-61mm_NorthBridge_45deg_arms" (layer "F.Cu")
     (tedit 61A0B25D) (tstamp e3c77d97-8ee8-4f78-8c49-f37630607dc1)
-    (at 104.55 51.3 90)
+    (at 104.902 51.054 90)
     (descr "53-61mm mounting hole pattern and NorthBridge, 45 deg offset, and arms -- combined.")
     (property "Sheetfile" "fruit.kicad_sch")
     (property "Sheetname" "")
