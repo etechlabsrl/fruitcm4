@@ -9937,7 +9937,7 @@
   (gr_text "Distance from board edge to backplane" (at 169.95 111.3) (layer "Cmts.User") (tstamp 190e5db4-2e78-4247-8e9e-f143f5a2a297)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "Place most components on this side." (at 80 -10) (layer "Cmts.User") (tstamp 25d545dc-8f50-4573-922c-35ef5a2a3a19)
+  (gr_text "Place most components on this side" (at 80 -10) (layer "Cmts.User") (tstamp 25d545dc-8f50-4573-922c-35ef5a2a3a19)
     (effects (font (size 3 3) (thickness 0.25)))
   )
   (gr_text "7.65mm" (at 163.3 45) (layer "Cmts.User") (tstamp 6d386c72-fb86-4a9d-951f-d7ac92fee46c)
