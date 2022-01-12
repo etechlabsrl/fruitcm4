@@ -24,6 +24,6 @@
   (lib (name "Regulator_Switching_Diodes")(type "KiCad")(uri "${KIPRJMOD}/library/Regulator_Switching_Diodes/Regulator_Switching_Diodes.pretty")(options "")(descr ""))
   (lib (name "Sensor_I2C_Microchip")(type "KiCad")(uri "${KIPRJMOD}/library/Sensor_I2C_Microchip/Sensor_I2C_Microchip.pretty")(options "")(descr ""))
   (lib (name "Sensor_I2C_TI")(type "KiCad")(uri "${KIPRJMOD}/library/Sensor_I2C_TI/Sensor_I2C_TI.pretty")(options "")(descr ""))
-  (lib (name "Transistor_SMD_Nexperia")(type "KiCad")(uri "${KIPRJMOD}/library/Transistor_SMD_Nexperia/Transistor_SMD_Nexperia.pretty")(options "")(descr ""))
+  (lib (name "Transistor_SMD_onsemi")(type "KiCad")(uri "${KIPRJMOD}/library/Transistor_SMD_onsemi/Transistor_SMD_onsemi.pretty")(options "")(descr ""))
   (lib (name "Inverter_SMD_TI")(type "KiCad")(uri "${KIPRJMOD}/library/Inverter_SMD_TI/Inverter_SMD_TI.pretty")(options "")(descr ""))
 )
