@@ -1,4 +1,4 @@
-19983069163622401
+19986354756973549
 Analog_ADC_TI
 ADS7142IRUGR
 ADS7142 Nanopower, Dual-Channel, Programmable Sensor Monitor, I2C (reduced paste pad)
@@ -55992,6 +55992,13 @@ USB2517-JZX
 0
 65
 65
+Inverter_SMD_TI
+PSON50P145X100X60-6N-DRY0006A
+TI, USON-6 - 0.6 mm max height, 1x1.45mm, DRY0006A package
+dry0006a
+0
+6
+6
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
@@ -84510,6 +84517,13 @@ transformer flyback
 0
 10
 10
+Transistor_SMD_Nexperia
+SOT65P210X110-3N
+Nexperia SOT323 (SC-70)
+
+0
+6
+3
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins

@@ -12,6 +12,7 @@
   (lib (name "Interface_I2C_NXP")(type "KiCad")(uri "${KIPRJMOD}/library/Interface_I2C_NXP/Interface_I2C_NXP.kicad_sym")(options "")(descr ""))
   (lib (name "Interface_I2C_TI")(type "KiCad")(uri "${KIPRJMOD}/library/Interface_I2C_TI/Interface_I2C_TI.kicad_sym")(options "")(descr ""))
   (lib (name "Interface_USB_Microchip")(type "KiCad")(uri "${KIPRJMOD}/library/Interface_USB_Microchip/Interface_USB_Microchip.kicad_sym")(options "")(descr ""))
+  (lib (name "Inverter_SMD_TI")(type "KiCad")(uri "${KIPRJMOD}/library/Inverter_SMD_TI/Inverter_SMD_TI.kicad_sym")(options "")(descr ""))
   (lib (name "LED_SMD_Everlight")(type "KiCad")(uri "${KIPRJMOD}/library/LED_SMD_Everlight/LED_SMD_Everlight.kicad_sym")(options "")(descr ""))
   (lib (name "LED_SMD_Inolux")(type "KiCad")(uri "${KIPRJMOD}/library/LED_SMD_Inolux/LED_SMD_Inolux.kicad_sym")(options "")(descr ""))
   (lib (name "LED_SMD_Kingbright")(type "KiCad")(uri "${KIPRJMOD}/library/LED_SMD_Kingbright/LED_SMD_Kingbright.kicad_sym")(options "")(descr ""))
