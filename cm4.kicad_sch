@@ -2764,7 +2764,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0ea0d6fd-097d-41d5-a35f-186893759024)
   )
-  (text "Always on as long as board has +3.3V" (at 464.82 199.39 0)
+  (text "Orange: Always on as long as board has +3.3V_CONTROL"
+    (at 445.77 199.39 0)
     (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
     (uuid 13da68e4-81b9-4c55-b2a4-cb5580fd175b)
   )
@@ -2890,7 +2891,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid af291b12-aae9-497a-b9f3-045740ebca23)
   )
-  (text "Only on when I2C_PING_1 goes HIGH" (at 464.82 204.47 0)
+  (text "Green: Only on when I2C_PING_1 goes HIGH" (at 445.77 204.47 0)
     (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
     (uuid b15cb5a5-3a59-4dae-bf45-1a8357ab491e)
   )
