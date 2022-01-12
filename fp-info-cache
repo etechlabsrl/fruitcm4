@@ -1,4 +1,11 @@
-19824310123120950
+19983069163622401
+Analog_ADC_TI
+ADS7142IRUGR
+ADS7142 Nanopower, Dual-Channel, Programmable Sensor Monitor, I2C (reduced paste pad)
+
+0
+20
+10
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6173,6 +6180,13 @@ capacitor tantalum
 0
 2
 2
+Capacitor_Tantalum_SMD_MyOwn
+CP_EIA-7343-31_Kemet-D
+Tantalum Capacitor SMD Kemet-D (7343-31 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
 Connector
 Banana_Jack_1Pin
 Single banana socket, footprint - 6mm drill
@@ -10821,6 +10835,27 @@ hdmi micro type d right angle tht smd hybrid
 0
 23
 20
+Connector_HDMI_Molex
+47659-1100
+
+
+0
+22
+22
+Connector_HDMI_Molex
+2086581051
+
+
+0
+23
+20
+Connector_HDMI_Molex
+MOLEX_0467650301
+
+
+0
+23
+23
 Connector_Harwin
 Harwin_Gecko-G125-FVX0605L0X_2x03_P1.25mm_Vertical
 Harwin Gecko Connector, 6 pins, dual row female, vertical entry, PN:G125-FVX0605L0X
@@ -11479,6 +11514,146 @@ connector Harwin M20 side entry
 0
 40
 40
+Connector_Header_Samtec
+SAMTEC-CLP-120-02-X-D-A
+translated Allegro footprint
+
+0
+40
+40
+Connector_Header_Samtec
+SAMTEC-TSW-120-08-X-D-RA
+
+
+0
+40
+40
+Connector_Header_Samtec
+SAMTEC_CLE-120-01-G-DV
+
+
+0
+40
+40
+Connector_Header_Samtec
+SAMTEC_CLM-120-02-F-D
+
+
+0
+40
+40
+Connector_Header_Samtec
+SAMTEC_ERF8-025-05.0-L-DV-TR
+
+
+0
+50
+50
+Connector_Header_Samtec
+SAMTEC_ERF8-030-01-L-D-RA-TR
+60 Position Connector Socket, Outer Shroud Contacts Surface Mount, Right Angle Gold
+
+0
+64
+61
+Connector_Header_Samtec
+SAMTEC_ERF8-030-05.0-L-DV-TR
+
+
+0
+60
+60
+Connector_Header_Samtec
+SAMTEC_ERF8-050-05.0-L-DV-L-TR
+
+
+0
+102
+101
+Connector_Header_Samtec
+SAMTEC_ERM8-030-01-L-D-EM2-TR
+
+
+0
+64
+63
+Connector_Header_Samtec
+SAMTEC_ERM8-030-01-L-D-RA-TR
+0.8MM DUAL ROW RIGHT ANGLE ASSEMBLY
+
+0
+64
+61
+Connector_Header_Samtec
+SAMTEC_FTE-120-01-G-DH-K
+
+
+0
+40
+40
+Connector_Header_Samtec
+SAMTEC_FTMH-120-03-F-DH
+
+
+0
+40
+40
+Connector_Header_Samtec
+SAMTEC_FTSH-105-01-L-DV-K
+High Reliability Header Strips, 0.050" (1.27mm) pitch, 10 pin
+swd cortex
+0
+10
+10
+Connector_Header_Samtec
+SAMTEC_FTSH-120-04-F-DH
+
+
+0
+40
+40
+Connector_Header_Samtec
+SAMTEC_QSE-040-01-X-D-EM2
+
+
+0
+82
+82
+Connector_Header_Samtec
+SAMTEC_QTE-040-01-X-D
+
+
+0
+88
+88
+Connector_Header_Samtec
+SAMTEC_SSW-120-02-G-D
+
+
+0
+40
+40
+Connector_Header_Samtec
+SAMTEC_SSW-120-02-X-D-RA
+
+
+0
+40
+40
+Connector_Header_Samtec
+SAMTEC_TSM-102-01-L-SV
+2-pin male header, 0.1" pitch, surface mount
+
+0
+2
+2
+Connector_Header_Samtec
+SAMTEC_TSM-103-01-F-SV-TR
+
+
+0
+3
+3
 Connector_Hirose
 Hirose_BM24_BM24-40DP-2-0.35V_2x20_P0.35mm_PowerPin2_Vertical
 Hirose BM24 series connector, BM24-40DP/2-0.35V (https://www.hirose.com/product/en/download_file/key_name/BM24/category/Catalog/doc_file_id/47680/?file_category_id=4&item_id=50&is_series=1)
@@ -17268,6 +17443,62 @@ connector JST ZE horizontal
 0
 18
 17
+Connector_M.2_TE
+1-2199119-6
+TE 1-2199119-6 M.2 connector M key with M.2 2280 card outline in fab layer with Samsung EVO 850 SSD and Wuerth 9974015243R standoff
+
+0
+69
+69
+Connector_M.2_TE
+1-2199119-6_2280
+TE 1-2199119-6 M.2 connector M key with M.2 2280 card outline in fab layer with Samsung EVO 850 SSD and Wuerth 9974015243R standoff
+
+0
+69
+69
+Connector_M.2_TE
+1-2199119-6_2280_Samsung_EVO_850_standoff_solid
+TE 1-2199119-6 M.2 connector M key with M.2 2280 card outline in fab layer with Samsung EVO 850 SSD and Wuerth 9974015243R standoff
+
+0
+69
+69
+Connector_M.2_TE
+1-2199119-6_2280_Samsung_EVO_850_standoff_transparent
+TE 1-2199119-6 M.2 connector M key with M.2 2280 card outline in fab layer with Samsung EVO 850 SSD and Wuerth 9974015243R standoff
+
+0
+69
+69
+Connector_M.2_TE
+1-2199119-6_2280_standoff
+TE 1-2199119-6 M.2 connector M key with M.2 2280 card outline in fab layer with Samsung EVO 850 SSD and Wuerth 9974015243R standoff
+
+0
+69
+69
+Connector_M.2_TE
+1-2199119-6_2280_standoff_nooutline
+TE 1-2199119-6 M.2 connector M key with M.2 2280 card, no outline in silk, outline in fab layer with Samsung EVO 850 SSD and Wuerth 9974015243R standoff
+
+0
+69
+69
+Connector_M.2_TE
+1-2199119-6_2280_standoff_slots
+TE 1-2199119-6 M.2 connector M key with M.2 2280 card outline in fab layer with Samsung EVO 850 SSD and Wuerth 9974015243R standoff
+
+0
+93
+68
+Connector_M.2_TE
+1-2199230-6_2280_standoff
+TE 1-2199119-6 M.2 connector M key with M.2 2280 card outline in fab layer with Samsung EVO 850 SSD and Wuerth 9974015243R standoff
+
+0
+69
+69
 Connector_Molex
 Molex_CLIK-Mate_502382-0270_1x02-1MP_P1.25mm_Vertical
 Molex CLIK-Mate series connector, 502382-0270 (http://www.molex.com/pdm_docs/sd/5023820270_sd.pdf), generated with kicad-footprint-generator
@@ -41334,6 +41565,48 @@ lan magnetics transformer
 0
 14
 13
+Connector_RaspberryPi
+Raspberry-Pi-4-Compute-Module
+
+
+0
+0
+0
+Connector_RaspberryPi
+Raspberry-Pi-4-Compute-Module_CM4
+Raspberry Pi 4 Compute Module
+Raspberry Pi 4 Compute Module
+0
+200
+200
+Connector_RaspberryPi
+Raspberry-Pi-4-Compute-Module_CM4Lite
+Raspberry Pi 4 Compute Module
+Raspberry Pi 4 Compute Module
+0
+200
+200
+Connector_RaspberryPi
+Raspberry-Pi-4-Compute-Module_CM4Minimal
+Raspberry Pi 4 Compute Module
+Raspberry Pi 4 Compute Module
+0
+200
+200
+Connector_RaspberryPi
+Raspberry-Pi-4-Compute-Module_RPFCM4
+Raspberry Pi 4 Compute Module
+Raspberry Pi 4 Compute Module
+0
+200
+200
+Connector_RaspberryPi
+Raspberry-Pi-4-Compute-Module_outline
+Raspberry Pi 4 Compute Module
+Raspberry Pi 4 Compute Module
+0
+200
+200
 Connector_SATA_SAS
 SAS-mini_TEConnectivity_1888174_Vertical
 36pin mini SAS connector, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1888174&DocType=Customer+Drawing&DocLang=English
@@ -41348,6 +41621,20 @@ SATA
 0
 24
 23
+Connector_SD_GCT
+GCT_MEM2067-02-180-00-A_REVB
+
+
+0
+12
+9
+Connector_SD_GCT
+GCT_MEM2075-00-140-01-A
+
+
+0
+13
+10
 Connector_Samtec
 Samtec_FMC_ASP-134486-01_10x40_P1.27mm_Vertical
 http://suddendocs.samtec.com/prints/asp-134486-01-mkt.pdf
@@ -45247,6 +45534,20 @@ Mini USB 2.0 Type B
 0
 9
 6
+Connector_USB_GCT
+USB-C_USB3.2_GCT_SB4070-XX-X_REVC
+usb3.2 usb-c connector vertical
+usb3.2 usb-c connector vertical
+0
+32
+25
+Connector_USB_GCT
+USB4110-GF-A
+
+
+0
+16
+16
 Connector_Wago
 Wago_734-132_1x02_P3.50mm_Vertical
 Molex 734 Male header (for PCBs); Straight solder pin 1 x 1 mm, 734-132 , 2 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
@@ -52331,6 +52632,13 @@ heatsink
 0
 2
 1
+Inductor_Power_Bourns
+INDPM135125X650N
+SRP1265A (LEAD FRAME)
+Inductor
+0
+2
+2
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -55621,6 +55929,69 @@ L_Toroid Vertical series Radial pin pitch 31.80mm  length 67.6mm width 36.1mm Vi
 0
 2
 2
+Interface_I2C_NXP
+SOT616-1_HVQFN-24_4x4mm_P0.5mm_EP2.1x2.1mm_NXP
+plastic thermal enhanced very thin quad flat package; noleads; 24 terminals; body 4 x 4 x 0.85 mm; 0.5mm pitch
+
+0
+53
+25
+Interface_I2C_TI
+QFN50P300X300X100-17N
+
+
+0
+21
+17
+Interface_I2C_TI
+QFN50P400X400X100-25N
+
+
+0
+30
+25
+Interface_I2C_TI
+SOIC127P600X175-14N
+
+
+0
+14
+14
+Interface_I2C_TI
+X2SON_DTM_TI
+
+
+0
+8
+8
+Interface_I2C_TI
+YFP25_TEX
+DSBGA - 0.5 mm max height
+
+0
+50
+25
+Interface_USB_Microchip
+Microchip_UQFN-10_1.3x1.8mm_P0.4mm_pin1
+UQFN, 10 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/00001725D.pdf (Page 9)), generated with kicad-footprint-generator ipc_noLead_generator.py
+UQFN NoLead
+0
+20
+10
+Interface_USB_Microchip
+Microchip_UQFN-10_1.6x2.1mm_P0.5mm
+10-Lead Ultra Thin Plastic Quad Flat, No Lead Package (3V) - 1.6.x2.1 mm Body [UQFN Chip-On-Lead]
+UQFN NoLead
+0
+10
+10
+Interface_USB_Microchip
+USB2517-JZX
+
+
+0
+65
+65
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
@@ -56258,6 +56629,118 @@ LED
 0
 2
 2
+LED_SMD_Everlight
+EAST10105RGBA0
+
+
+0
+4
+4
+LED_SMD_Inolux
+IN-PI20TAT5R5G5B
+
+
+0
+4
+4
+LED_SMD_Inolux
+LED_IN-PI42TASPRPGPB
+
+
+0
+4
+4
+LED_SMD_Kingbright
+APHB1608CGKSEKC
+1.6 x 0.8 x 0.5 mm Bi-Color Surface Mount LED, green / orange
+
+0
+4
+4
+LED_SMD_Kingbright
+LED_APA2106SECK
+
+
+0
+2
+2
+LED_SMD_Kingbright
+PLCC-2
+
+
+0
+2
+2
+LED_SMD_Kingbright
+PLCC-2 Pink
+
+
+0
+2
+2
+LED_SMD_LiteOn
+LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder_green
+LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD_LiteOn
+LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder_orange
+LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD_LiteOn
+LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder_red
+LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD_LiteOn
+LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder_yellow
+LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD_LiteOn
+LED_0603_1608Metric_blue
+LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD_LiteOn
+LED_0603_1608Metric_green
+LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD_LiteOn
+LED_0603_1608Metric_orange
+LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD_LiteOn
+LED_0603_1608Metric_red
+LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD_LiteOn
+LED_0603_1608Metric_yellow
+LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
 LED_THT
 LED_BL-FL7680RGB
 'Piranha' RGB LED, through hole, common anode, 7.62x7.62mm, BGRA pin order, https://cdn-shop.adafruit.com/datasheets/BL-FL7680RGB.pdf
@@ -56832,6 +57315,132 @@ Yellow 5381 Series LED
 0
 2
 2
+Mechanical_CoolingBlock
+53-61mm
+53-61mm mounting hole pattern
+
+0
+0
+0
+Mechanical_CoolingBlock
+53-61mm_NorthBridge_45deg_arms
+53-61mm mounting hole pattern and NorthBridge, 45 deg offset, and arms -- combined.
+
+0
+0
+0
+Mechanical_CoolingBlock
+53-61mm_NorthBridge_45deg_arms_plated
+53-61mm mounting hole pattern and NorthBridge, 45 deg offset, and arms -- combined.
+
+0
+8
+0
+Mechanical_CoolingBlock
+53-61mm_NorthBridge_45deg_arms_shape
+53-61mm mounting hole pattern and NorthBridge, 45 deg offset, and arms -- combined with shape
+
+0
+0
+0
+Mechanical_CoolingBlock
+53-61mm_NorthBridge_45deg_arms_shape_plated
+53-61mm mounting hole pattern and NorthBridge, 45 deg offset, and arms -- combined with shape
+
+0
+8
+0
+Mechanical_CoolingBlock
+AMD_AM3
+AMD AM3 socket mounting holes
+
+0
+0
+0
+Mechanical_CoolingBlock
+AMD_AM3_AM4
+AMD AM3 & AM4 socket mounting slots
+
+0
+0
+0
+Mechanical_CoolingBlock
+AMD_AM3_AM4_Cooler
+AMD AM3 & AM4 socket mounting slots
+
+0
+0
+0
+Mechanical_CoolingBlock
+AMD_AM4
+AMD AM4 socket mounting holes
+
+0
+0
+0
+Mechanical_CoolingBlock
+AMD_AM4_Cooler
+AMD AM4 socket mounting holes
+
+0
+0
+0
+Mechanical_CoolingBlock
+LGA115x_1366_2011
+Intel LGA2066, LGA2011, LGA2011-3, LGA1366, LGA1150, LGA1151, LGA1155, LGA1156 socket mounting holes
+
+0
+0
+0
+Mechanical_CoolingBlock
+LGA115x_1366_2011_EKWB_with_Tubes
+Intel LGA2066, LGA2011, LGA2011-3, LGA1366, LGA1150, LGA1151, LGA1155, LGA1156 socket mounting holes
+
+0
+0
+0
+Mechanical_CoolingBlock
+LGA115x_1366_2011_HeatkillerIV
+Intel LGA2066, LGA2011, LGA2011-3, LGA1366, LGA1150, LGA1151, LGA1155, LGA1156 socket mounting holes
+
+0
+0
+0
+Mechanical_CoolingBlock
+LGA115x_1366_2011_Universal
+Intel LGA2066, LGA2011, LGA2011-3, LGA1366, LGA1150, LGA1151, LGA1155, LGA1156 socket mounting holes
+
+0
+0
+0
+Mechanical_CoolingBlock
+NorthBridge
+NorthBridge cooling block mounting holes
+
+0
+0
+0
+Mechanical_CoolingBlock
+NorthBridge_45deg
+NorthBridge cooling block mounting holes, 45deg offset
+
+0
+0
+0
+Mechanical_CoolingBlock
+NorthBridge_45deg_arms
+NorthBridge cooling block mounting holes, 45 deg offset, with extension arms (15mm)
+
+0
+0
+0
+Mechanical_CoolingBlock
+NorthBridge_45deg_arms_only
+NorthBridge cooling block, 45 deg offset, with extension arms (15mm) only
+
+0
+0
+0
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -71329,6 +71938,13 @@ TSOC-6
 0
 6
 6
+Package_SO_MyOwn
+SOIC-8_3.9x4.9mm_P1.27mm
+SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+8
+8
 Package_TO_SOT_SMD
 ATPAK-2
 ATPAK SMD package, http://www.onsemi.com/pub/Collateral/ENA2192-D.PDF
@@ -74787,6 +75403,41 @@ Potentiometer vertical Vishay T73YP
 0
 3
 3
+Power_Protection_Diodes
+Diodes_W-DFN2020-6_A1
+
+
+0
+7
+6
+Power_Protection_TI
+DSM15_X
+
+
+0
+15
+15
+Power_Protection_TI
+DSM15_X_reduced_paste_pin1
+TI DSM15_X with reduced paste to prevent bridging and pin 1 indicator
+
+0
+30
+15
+Power_Protection_TI
+ESD122DMXR
+
+
+0
+3
+3
+Power_Protection_TI
+TPD4E001DRSR
+
+
+0
+9
+7
 RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
@@ -75760,6 +76411,20 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
+Regulator_Switching_Diodes
+SO-8EP
+
+
+0
+13
+9
+Regulator_Switching_Diodes
+SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias
+SOIC, 8 Pin (http://www.ti.com/lit/ds/symlink/lm5017.pdf#page=31), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+23
+9
 Relay_SMD
 Relay_2P2T_10x6mm_TE_IMxxG
 Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf
@@ -78000,6 +78665,20 @@ sensirion dfn nolead
 0
 10
 9
+Sensor_I2C_Microchip
+MCP9808T-E&slash_MC
+
+
+0
+21
+9
+Sensor_I2C_TI
+TSSOP-16_4.4x5mm_P0.65mm_pin1
+TSSOP, 16 Pin (JEDEC MO-153 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+16
+16
 Sensor_Motion
 InvenSense_QFN-24_3x3mm_P0.4mm
 24-Lead Plastic QFN (3mm x 3mm); Pitch 0.4mm; EP 1.7x1.54mm; for InvenSense motion sensors; keepout area marked (Package see: https://store.invensense.com/datasheets/invensense/MPU9250REV1.0.pdf; See also https://www.invensense.com/wp-content/uploads/2015/02/InvenSense-MEMS-Handling.pdf)
