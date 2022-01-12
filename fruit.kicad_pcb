@@ -1335,7 +1335,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 0b5377c5-8bfc-436a-8d50-f1bb8adfe3c5)
-    (at 180.63 180.455)
+    (at 174.11 -38.095)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "ID" "1")
@@ -1778,7 +1778,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 1a6eb817-9bf8-4858-9b35-aea45400a292)
-    (at 177.74 180.465)
+    (at 171.22 -38.085)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "ID" "1")
@@ -2368,7 +2368,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 24747643-38a6-48e8-985a-e5344885ee90)
-    (at 177.74 182.455)
+    (at 171.22 -36.095)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "ID" "1")
@@ -3440,7 +3440,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp 3e96e787-2613-4088-bbc9-f143f370cd34)
-    (at 174.76 180.145)
+    (at 168.24 -38.405)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "ID" "1")
@@ -4905,7 +4905,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp 5f3d1f00-6827-4310-b177-42f04b648d0a)
-    (at 171.71 183.195)
+    (at 165.19 -35.355)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "ID" "1")
@@ -5453,7 +5453,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 7254db93-dc96-4265-9a6f-75ae9aff059c)
-    (at 180.79 178.345)
+    (at 174.27 -40.205)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "ID" "1")
@@ -6243,7 +6243,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 8bfc1132-ae3b-40a7-a7a6-2165679c6692)
-    (at 183.36 174.365)
+    (at 176.84 -44.185)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "ID" "1")
@@ -6477,7 +6477,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 91a14bc8-2988-4861-851c-bcfb189c204c)
-    (at 180.63 182.425)
+    (at 174.11 -36.125)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "ID" "1")
@@ -7009,7 +7009,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp 95e20946-aca0-4689-972b-534dfd825f0f)
-    (at 174.76 183.195)
+    (at 168.24 -35.355)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "ID" "1")
@@ -7037,7 +7037,7 @@
 
   (footprint "Inverter_SMD_TI:PSON50P145X100X60-6N-DRY0006A" (layer "F.Cu")
     (tedit 61DE78F8) (tstamp 960d231c-d8b4-44a6-89ee-5c9c3c3c9d72)
-    (at 189.25 174.7585)
+    (at 182.73 -43.7915)
     (descr "TI, USON-6 - 0.6 mm max height, 1x1.45mm, DRY0006A package")
     (tags "dry0006a")
     (property "ID" "1")
@@ -7813,7 +7813,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp a37ca359-0492-436a-9df2-90fdf4913389)
-    (at 171.71 180.145)
+    (at 165.19 -38.405)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "ID" "1")
@@ -8355,7 +8355,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp b6a110d2-d34d-4e35-b040-807317f709db)
-    (at 177.81 177.945)
+    (at 171.29 -40.605)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "ID" "1")
@@ -8383,7 +8383,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp b6b7b1da-46e6-423a-bcff-479e2825e9b5)
-    (at 186.27 174.365)
+    (at 179.75 -44.185)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "ID" "1")
@@ -8502,7 +8502,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp bd5af3b7-a72c-45e0-a09b-9ac99f582ca0)
-    (at 183.68 178.335)
+    (at 177.16 -40.215)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "ID" "1")
@@ -8796,7 +8796,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp c6dd0a19-6d14-40c0-8b27-a7ffd87fc6e4)
-    (at 177.33 174.895)
+    (at 170.81 -43.655)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "ID" "1")
@@ -8824,7 +8824,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp c83ffe15-b8a0-4bbb-a2b7-11e92ac5f94f)
-    (at 186.25 176.345)
+    (at 179.73 -42.205)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "ID" "1")
@@ -9153,7 +9153,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp d0f8cb0d-5867-4b07-981b-4bfc235d169a)
-    (at 183.36 176.355)
+    (at 176.84 -42.195)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "ID" "1")
@@ -9714,7 +9714,7 @@
 
   (footprint "Buffer_SMD_TI:PSON50P145X100X60-6N-DRY0006A" (layer "F.Cu")
     (tedit 61DE83D2) (tstamp df201a85-39ef-4339-9bfb-810ad0b68fd7)
-    (at 183.59 180.7285)
+    (at 177.07 -37.8215)
     (descr "TI, USON-6 - 0.6 mm max height, 1x1.45mm, DRY0006A package")
     (tags "dry0006a")
     (property "ID" "1")
@@ -10035,7 +10035,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp e45a2b1e-e201-4ef1-a619-069700256f6b)
-    (at 180.38 174.895)
+    (at 173.86 -43.655)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "ID" "1")
@@ -10934,7 +10934,7 @@
 
   (footprint "Interface_I2C_NXP:SOT758-1_HVQFN-16_3x3mm_P0.5mm_EP1.75x1.75mm_NXP" (layer "F.Cu")
     (tedit 61DE90C0) (tstamp ffef25b2-f74b-4d06-82c0-9ebf9617ba15)
-    (at 173.185 175.995)
+    (at 166.665 -42.555)
     (descr "plastic thermal enhanced very thin quad flat package; noleads; 16 terminals; body 3 x 3 x 0.85 mm; 0.5mm pitch")
     (property "ID" "1")
     (property "MPN" "PCA9641BSHP")
@@ -10943,7 +10943,7 @@
     (property "Sheetname" "Fruit")
     (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/355a86f9-580e-4274-bd6a-8c6016887b32")
     (attr smd)
-    (fp_text reference "U6" (at 0 -6.25) (layer "F.SilkS")
+    (fp_text reference "U6" (at -1.465 -2.64) (layer "F.SilkS")
       (effects (font (size 0.5 0.5) (thickness 0.1)))
       (tstamp a22de0d0-5319-4af9-9569-27090db3a00d)
     )
@@ -11015,7 +11015,8 @@
       (net 307 "unconnected-(U6-Pad15)") (pinfunction "~{INT0}") (pintype "output+no_connect") (tstamp a07eca74-25c1-48e9-a77b-6540f534faa9))
     (pad "16" smd roundrect (at -0.75 -1.55 90) (size 0.9 0.24) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.2083333333)
       (net 85 "/I2C_SDA") (pinfunction "SDA_MST0") (pintype "bidirectional") (tstamp d6787cfe-f12d-41db-b6df-c44e3654bc53))
-    (pad "17" smd roundrect (at 0 0 90) (size 1.5 1.5) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.02666666667) (tstamp 9f5dcfea-61d4-4cbc-9ec7-e24e02c7dd81))
+    (pad "17" smd roundrect (at 0 0 90) (size 1.5 1.5) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.02666666667)
+      (net 2 "GND") (pinfunction "ePAD") (pintype "power_in") (tstamp 9f5dcfea-61d4-4cbc-9ec7-e24e02c7dd81))
   )
 
   (footprint "Connector_PCIe_MyOwn:BUS_PCIexpress_x4_Salmonberry_reduced_shoulders" locked (layer "B.Cu")
