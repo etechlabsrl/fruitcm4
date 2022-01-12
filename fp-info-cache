@@ -1,4 +1,4 @@
-19989636360058658
+20005592730266112
 Analog_ADC_TI
 ADS7142IRUGR
 ADS7142 Nanopower, Dual-Channel, Programmable Sensor Monitor, I2C (reduced paste pad)
@@ -55943,6 +55943,13 @@ plastic thermal enhanced very thin quad flat package; noleads; 24 terminals; bod
 0
 53
 25
+Interface_I2C_NXP
+SOT758-1_HVQFN-16_3x3mm_P0.5mm_EP1.75x1.75mm_NXP
+plastic thermal enhanced very thin quad flat package; noleads; 16 terminals; body 3 x 3 x 0.85 mm; 0.5mm pitch
+
+0
+37
+17
 Interface_I2C_TI
 QFN50P300X300X100-17N
 
@@ -60213,6 +60220,13 @@ Hamamatsu SiPM
 0
 2
 2
+OptoDevice
+Kingbright_KPS-3227
+3.2mmx2.7mm, light sensor, https://www.kingbright.com/attachments/file/psearch/000/00/00/KPS-3227SP1C(Ver.16).pdf
+KPS-3227 Ambient Light Photo Sensor
+0
+4
+4
 OptoDevice
 Kingbright_KPS-5130
 http://www.kingbright.com/attachments/file/psearch/000/00/00/KPS-5130PD7C(Ver.14).pdf
