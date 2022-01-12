@@ -1,5 +1,6 @@
 (sym_lib_table
   (lib (name "Analog_ADC_TI")(type "KiCad")(uri "${KIPRJMOD}/library/Analog_ADC_TI/Analog_ADC_TI.kicad_sym")(options "")(descr ""))
+  (lib (name "Buffer_SMD_TI")(type "KiCad")(uri "${KIPRJMOD}/library/Buffer_SMD_TI/Buffer_SMD_TI.kicad_sym")(options "")(descr ""))
   (lib (name "Capacitor_Tantalum_SMD_MyOwn")(type "KiCad")(uri "${KIPRJMOD}/library/Capacitor_Tantalum_SMD_MyOwn/Capacitor_Tantalum_SMD_MyOwn.kicad_sym")(options "")(descr ""))
   (lib (name "Connector_HDMI_Molex")(type "KiCad")(uri "${KIPRJMOD}/library/Connector_HDMI_Molex/Connector_HDMI_Molex.kicad_sym")(options "")(descr ""))
   (lib (name "Connector_Header_Samtec")(type "KiCad")(uri "${KIPRJMOD}/library/Connector_Header_Samtec/Connector_Header_Samtec.kicad_sym")(options "")(descr ""))

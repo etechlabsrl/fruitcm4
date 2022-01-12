@@ -1,5 +1,6 @@
 (fp_lib_table
   (lib (name "Analog_ADC_TI")(type "KiCad")(uri "${KIPRJMOD}/library/Analog_ADC_TI/Analog_ADC_TI.pretty")(options "")(descr ""))
+  (lib (name "Buffer_SMD_TI")(type "KiCad")(uri "${KIPRJMOD}/library/Buffer_SMD_TI/Buffer_SMD_TI.pretty")(options "")(descr ""))
   (lib (name "Capacitor_Tantalum_SMD_MyOwn")(type "KiCad")(uri "${KIPRJMOD}/library/Capacitor_Tantalum_SMD_MyOwn/Capacitor_Tantalum_SMD_MyOwn.pretty")(options "")(descr ""))
   (lib (name "Connector_HDMI_Molex")(type "KiCad")(uri "${KIPRJMOD}/library/Connector_HDMI_Molex/Connector_HDMI_Molex.pretty")(options "")(descr ""))
   (lib (name "Connector_Header_Samtec")(type "KiCad")(uri "${KIPRJMOD}/library/Connector_Header_Samtec/Connector_Header_Samtec.pretty")(options "")(descr ""))
@@ -13,6 +14,7 @@
   (lib (name "Interface_I2C_NXP")(type "KiCad")(uri "${KIPRJMOD}/library/Interface_I2C_NXP/Interface_I2C_NXP.pretty")(options "")(descr ""))
   (lib (name "Interface_I2C_TI")(type "KiCad")(uri "${KIPRJMOD}/library/Interface_I2C_TI/Interface_I2C_TI.pretty")(options "")(descr ""))
   (lib (name "Interface_USB_Microchip")(type "KiCad")(uri "${KIPRJMOD}/library/Interface_USB_Microchip/Interface_USB_Microchip.pretty")(options "")(descr ""))
+  (lib (name "Inverter_SMD_TI")(type "KiCad")(uri "${KIPRJMOD}/library/Inverter_SMD_TI/Inverter_SMD_TI.pretty")(options "")(descr ""))
   (lib (name "LED_SMD_Everlight")(type "KiCad")(uri "${KIPRJMOD}/library/LED_SMD_Everlight/LED_SMD_Everlight.pretty")(options "")(descr ""))
   (lib (name "LED_SMD_Inolux")(type "KiCad")(uri "${KIPRJMOD}/library/LED_SMD_Inolux/LED_SMD_Inolux.pretty")(options "")(descr ""))
   (lib (name "LED_SMD_Kingbright")(type "KiCad")(uri "${KIPRJMOD}/library/LED_SMD_Kingbright/LED_SMD_Kingbright.pretty")(options "")(descr ""))
@@ -25,5 +27,4 @@
   (lib (name "Sensor_I2C_Microchip")(type "KiCad")(uri "${KIPRJMOD}/library/Sensor_I2C_Microchip/Sensor_I2C_Microchip.pretty")(options "")(descr ""))
   (lib (name "Sensor_I2C_TI")(type "KiCad")(uri "${KIPRJMOD}/library/Sensor_I2C_TI/Sensor_I2C_TI.pretty")(options "")(descr ""))
   (lib (name "Transistor_SMD_onsemi")(type "KiCad")(uri "${KIPRJMOD}/library/Transistor_SMD_onsemi/Transistor_SMD_onsemi.pretty")(options "")(descr ""))
-  (lib (name "Inverter_SMD_TI")(type "KiCad")(uri "${KIPRJMOD}/library/Inverter_SMD_TI/Inverter_SMD_TI.pretty")(options "")(descr ""))
 )

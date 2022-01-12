@@ -1,4 +1,4 @@
-19986354756973549
+19989636360058658
 Analog_ADC_TI
 ADS7142IRUGR
 ADS7142 Nanopower, Dual-Channel, Programmable Sensor Monitor, I2C (reduced paste pad)
@@ -321,6 +321,13 @@ battery CR-3032 coin cell vertical
 0
 2
 2
+Buffer_SMD_TI
+PSON50P145X100X60-6N-DRY0006A
+TI, USON-6 - 0.6 mm max height, 1x1.45mm, DRY0006A package
+dry0006a
+0
+12
+6
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
@@ -55997,7 +56004,7 @@ PSON50P145X100X60-6N-DRY0006A
 TI, USON-6 - 0.6 mm max height, 1x1.45mm, DRY0006A package
 dry0006a
 0
-6
+12
 6
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
@@ -84517,12 +84524,19 @@ transformer flyback
 0
 10
 10
-Transistor_SMD_Nexperia
-SOT65P210X110-3N
-Nexperia SOT323 (SC-70)
+Transistor_SMD_onsemi
+BCW65ALT1G
+
 
 0
-6
+3
+3
+Transistor_SMD_onsemi
+MMBT2222AM3T5G
+Bipolar (BJT) Transistor NPN 40 V 600 mA 300MHz 640 mW Surface Mount SOT-723
+
+0
+3
 3
 Valve
 Valve_ECC-83-1
