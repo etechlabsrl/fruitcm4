@@ -1430,6 +1430,9 @@
     (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/eeb28c3c-94d3-4c96-b4fb-57e10648ae5a/4fdb4d7f-9935-4460-8c12-01fdde5939c0/ae23678b-372d-4e46-a59a-04c6222a54e8"
       (reference "#PWR056") (unit 1) (value "GND") (footprint "")
     )
+    (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/4143bc2f-21ca-4f0f-adf3-95df8955dbf5"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/af8eef5a-1d65-4630-994e-2dc09fa9cc79/f4eb04ea-f65a-457e-ab30-6a8beed169b8/d2d70790-01c5-475b-8bef-b0bb1ee56f65"
       (reference "C1") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
@@ -1970,6 +1973,24 @@
     (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/af8eef5a-1d65-4630-994e-2dc09fa9cc79/205b5627-8294-4c9b-9a65-a0d5ba62e80d/35f39c01-13ed-4120-9fd2-2924240a16ff"
       (reference "TP8") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
+    (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/233025a9-7553-4e4d-8dce-62946766c97b"
+      (reference "TP?") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+    )
+    (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/2409a11c-49fd-454b-b9a4-b2ae3689e194"
+      (reference "TP?") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+    )
+    (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/8c004864-f977-4e86-80ba-e533925a67f2"
+      (reference "TP?") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+    )
+    (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/a5a73cb4-c5fe-4ed3-a466-f45d0f6bf2b7"
+      (reference "TP?") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+    )
+    (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/b982a472-88d2-4372-aaa0-81d369039bbc"
+      (reference "TP?") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+    )
+    (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/c0cb3d20-58cd-4ff1-b78b-7838129293bd"
+      (reference "TP?") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+    )
     (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/af8eef5a-1d65-4630-994e-2dc09fa9cc79/f4eb04ea-f65a-457e-ab30-6a8beed169b8/0ede4afb-f114-4906-9c20-b6108a22ea7f"
       (reference "U1") (unit 1) (value "INA260") (footprint "Sensor_I2C_TI:TSSOP-16_4.4x5mm_P0.65mm_pin1")
     )
@@ -2014,6 +2035,9 @@
     )
     (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/af8eef5a-1d65-4630-994e-2dc09fa9cc79/205b5627-8294-4c9b-9a65-a0d5ba62e80d/44fa0674-95fa-48cc-8bf3-340e9c0e1681"
       (reference "U15") (unit 1) (value "AP64501SP-13") (footprint "Regulator_Switching_Diodes:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias")
+    )
+    (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/0eb882a6-0146-441f-ab51-9906ef96f5f9"
+      (reference "U?") (unit 1) (value "SN74LVC1G07DRY") (footprint "Buffer_SMD_TI:PSON50P145X100X60-6N-DRY0006A")
     )
   )
 )
