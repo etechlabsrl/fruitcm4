@@ -5,7 +5,7 @@
   (paper "A5")
 
   (title_block
-    (date "2022-01-04")
+    (date "2022-01-12")
     (rev "4")
     (company "Copyright © 2022 Christian Kuhtz")
     (comment 2 "CERN-OHL-W v2 or later")

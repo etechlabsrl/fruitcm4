@@ -6,7 +6,7 @@
 
   (title_block
     (title "Salmonberry Pi, Fruit \\ 'früt \\ CM4")
-    (date "2022-01-10")
+    (date "2022-01-12")
     (rev "4")
     (company "Copyright © 2022 Christian Kuhtz")
     (comment 2 "CERN-OHL-W v2 or later")

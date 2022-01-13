@@ -6,7 +6,7 @@
 
   (title_block
     (title "M.2 M key on PCIeX1")
-    (date "2021-11-20")
+    (date "2022-01-12")
     (rev "4")
     (company "Copyright © 2022 Christian Kuhtz")
     (comment 2 "CERN-OHL-W v2 or later")
