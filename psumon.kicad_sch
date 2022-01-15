@@ -440,7 +440,7 @@
     (uuid fced7202-2690-4ceb-a695-7501f3863813)
   )
 
-  (symbol (lib_id "power:GND") (at 125.73 90.17 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 125.73 90.17 0)
     (in_bom yes) (on_board yes)
     (uuid 1fa5b67a-a614-4aa8-b20f-848176d65ab1)
     (property "Reference" "#PWR024" (id 0) (at 125.73 96.52 0)
@@ -456,7 +456,7 @@
     (pin "1" (uuid 4af9518a-49a5-4204-aad1-af325bda1a2c))
   )
 
-  (symbol (lib_id "Device:C_Small") (at 58.42 58.42 0) (unit 1)
+  (symbol (lib_id "Device:C_Small") (at 58.42 58.42 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 574268b1-09c3-4aae-a4ee-3b43f36da627)
     (property "Reference" "C14" (id 0) (at 60.96 57.1562 0)
@@ -475,7 +475,7 @@
     (pin "2" (uuid 20d1153c-b156-4270-9d27-1955fb09e020))
   )
 
-  (symbol (lib_id "power:GND") (at 69.85 68.58 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 69.85 68.58 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5f26c3f2-c272-4049-92e7-1f2d19b64d0d)
     (property "Reference" "#PWR023" (id 0) (at 69.85 74.93 0)
@@ -491,7 +491,7 @@
     (pin "1" (uuid bc88af27-6fe6-440c-9962-2bf0936e6ceb))
   )
 
-  (symbol (lib_id "Sensor_I2C_TI:INA260") (at 125.73 67.31 0) (mirror y) (unit 1)
+  (symbol (lib_id "Sensor_I2C_TI:INA260") (at 125.73 67.31 0) (mirror y)
     (in_bom yes) (on_board yes)
     (uuid ca7479a7-8326-4f8c-a640-9cb51e1c09e4)
     (property "Reference" "U9" (id 0) (at 120.015 58.42 0))
@@ -526,7 +526,7 @@
     (pin "9" (uuid 1c80e5c2-631b-44f1-99f6-bfbfc9552ab2))
   )
 
-  (symbol (lib_id "power:PWR_FLAG") (at 152.4 72.39 0) (unit 1)
+  (symbol (lib_id "power:PWR_FLAG") (at 152.4 72.39 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d3954dc8-c444-4d27-8779-37f64831a067)
     (property "Reference" "#FLG04" (id 0) (at 152.4 70.485 0)
@@ -542,7 +542,7 @@
     (pin "1" (uuid eb5fa2cf-7626-4dd1-97ab-a297ca9fd68d))
   )
 
-  (symbol (lib_id "Device:C_Small") (at 69.85 58.42 0) (unit 1)
+  (symbol (lib_id "Device:C_Small") (at 69.85 58.42 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e2ca3112-5570-49de-9d2c-7a8d5cb79dee)
     (property "Reference" "C15" (id 0) (at 72.39 57.1562 0)
@@ -561,7 +561,7 @@
     (pin "2" (uuid 2ecaa060-e699-476c-8b43-ec2558b6ef7f))
   )
 
-  (symbol (lib_id "Connector:TestPoint") (at 143.51 72.39 0) (mirror x) (unit 1)
+  (symbol (lib_id "Connector:TestPoint") (at 143.51 72.39 0) (mirror x)
     (in_bom yes) (on_board yes)
     (uuid eb95fcdc-5e56-4141-87dd-1e66c700fa02)
     (property "Reference" "TP10" (id 0) (at 146.05 76.2 0)
