@@ -72,14 +72,14 @@
     "files": [
       {
         "name": "fruit.kicad_sch",
-        "open": false,
+        "open": true,
         "window": {
           "display": 0,
           "maximized": true,
-          "pos_x": 4303,
-          "pos_y": 27,
-          "size_x": 1697,
-          "size_y": 1413
+          "pos_x": 3197,
+          "pos_y": 175,
+          "size_x": 1717,
+          "size_y": 1071
         }
       },
       {
@@ -88,10 +88,10 @@
         "window": {
           "display": 0,
           "maximized": true,
-          "pos_x": 3222,
-          "pos_y": 63,
-          "size_x": 1697,
-          "size_y": 1077
+          "pos_x": 2606,
+          "pos_y": 27,
+          "size_x": 2170,
+          "size_y": 1413
         }
       }
     ]
