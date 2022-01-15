@@ -1,4 +1,4 @@
-19992922450863315
+19992922451982973
 Analog_ADC_TI
 ADS7142IRUGR
 ADS7142 Nanopower, Dual-Channel, Programmable Sensor Monitor, I2C (reduced paste pad)
@@ -330,11 +330,11 @@ dry0006a
 6
 Buffer_SMD_TI
 RKS0020A
+TI RKS package, VQFN - 1 mm max height
 
-
 0
-0
-0
+46
+21
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
