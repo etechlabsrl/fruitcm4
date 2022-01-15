@@ -4924,7 +4924,7 @@
     (property "Sheet name" "Sensors" (id 0) (at 533.4 154.94 0)
       (effects (font (size 3 3) bold italic) (justify left bottom))
     )
-    (property "Sheet file" "cm4sensors.kicad_sch" (id 1) (at 534.67 174.9984 0)
+    (property "Sheet file" "tempsensors.kicad_sch" (id 1) (at 534.67 174.9984 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (pin "CM4_TALERT" output (at 562.61 158.75 0)
