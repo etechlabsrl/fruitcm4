@@ -4956,7 +4956,7 @@
     (property "Sheet name" "CM4 PSU" (id 0) (at 79.375 530.86 0)
       (effects (font (size 2 2) bold italic) (justify left bottom))
     )
-    (property "Sheet file" "cm4psugroup.kicad_sch" (id 1) (at 64.77 535.1787 0)
+    (property "Sheet file" "psugroup.kicad_sch" (id 1) (at 64.77 535.1787 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (pin "SDA" bidirectional (at 64.77 532.13 180)
