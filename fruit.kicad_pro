@@ -44,8 +44,8 @@
         "silk_text_thickness": 0.09999999999999999,
         "silk_text_upright": false,
         "zones": {
-          "45_degree_only": true,
-          "min_clearance": 0.08889999999999999
+          "45_degree_only": false,
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -423,7 +423,24 @@
         "microvia_diameter": 0.4,
         "microvia_drill": 0.2,
         "name": "DP 100 5mil",
-        "nets": [],
+        "nets": [
+          "/CM4/HDMICK+",
+          "/CM4/HDMICK-",
+          "/CM4/HDMID0+",
+          "/CM4/HDMID0-",
+          "/CM4/HDMID1+",
+          "/CM4/HDMID1-",
+          "/CM4/HDMID2+",
+          "/CM4/HDMID2-",
+          "/EthA+",
+          "/EthA-",
+          "/EthB+",
+          "/EthB-",
+          "/EthC+",
+          "/EthC-",
+          "/EthD+",
+          "/EthD-"
+        ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.0889,
