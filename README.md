@@ -22,6 +22,9 @@ The component projects are:
 - [Thorn](https://github.com/salmonberrypi/thorn), passive board to protect the male plug on the Fruit or Graft boards. (out of date)
 - [Rhizome](https://github.com/salmonberrypi/rhizome), life support systems and connectivity
 
+
+(images are from a previous revision and out of date, shown for reference)
+
 PCB front:
 
 <img src="https://github.com/salmonberrypi/fruitcm4/blob/main/artifacts/fruitcm4.png?raw=true" height=400 width=775>
