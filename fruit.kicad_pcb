@@ -11824,7 +11824,7 @@
     (property "Sheetname" "")
     (path "/0ad88b14-75ca-4fe9-9bb6-f5d58fe3e7f9")
     (attr exclude_from_pos_files)
-    (fp_text reference "J1" (at 5 3.5 90) (layer "B.SilkS")
+    (fp_text reference "J1" (at 5 3.5 90) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp ac3d2ed1-4005-47a9-8f65-760df2d300dd)
     )
