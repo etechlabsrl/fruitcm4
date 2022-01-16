@@ -16,6 +16,7 @@ The goals of this project are to provide:
 - standard form factors and connectors, although perhaps repurposed
 
 The component projects are:
+- [Face CM4](https://github.com/salmonberrypi/facem4), 8TE 3U faceplate with jacks, microSD card slot and LEDs.
 - [Fruit CM4](https://github.com/salmonberrypi/fruitcm4), carrier board for CM4, general purpose compute or storage or both.
 - [Graft](https://github.com/salmonberrypi/graft), development board to bring up Fruit board, allows diversion to on-board connectors for rhizome served power and signals. Can be used with or without rhizome boards. (out of date)
 - [Thorn](https://github.com/salmonberrypi/thorn), passive board to protect the male plug on the Fruit or Graft boards. (out of date)
