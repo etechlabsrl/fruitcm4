@@ -1405,9 +1405,6 @@
     (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/2d790348-ab30-41db-8988-613764235b68"
       (reference "#PWR07") (unit 1) (value "GND") (footprint "")
     )
-    (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/4143bc2f-21ca-4f0f-adf3-95df8955dbf5"
-      (reference "#PWR08") (unit 1) (value "GND") (footprint "")
-    )
     (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/366f807f-fe73-4425-b634-06a83cc8f7e7"
       (reference "#PWR09") (unit 1) (value "GND") (footprint "")
     )
@@ -1456,10 +1453,10 @@
     (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/af8eef5a-1d65-4630-994e-2dc09fa9cc79/f4eb04ea-f65a-457e-ab30-6a8beed169b8/5f26c3f2-c272-4049-92e7-1f2d19b64d0d"
       (reference "#PWR023") (unit 1) (value "GND") (footprint "")
     )
-    (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/af8eef5a-1d65-4630-994e-2dc09fa9cc79/c90fad73-a552-42c3-bda6-0131cba9b7d8/1fa5b67a-a614-4aa8-b20f-848176d65ab1"
+    (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/af8eef5a-1d65-4630-994e-2dc09fa9cc79/f4eb04ea-f65a-457e-ab30-6a8beed169b8/1fa5b67a-a614-4aa8-b20f-848176d65ab1"
       (reference "#PWR024") (unit 1) (value "GND") (footprint "")
     )
-    (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/af8eef5a-1d65-4630-994e-2dc09fa9cc79/f4eb04ea-f65a-457e-ab30-6a8beed169b8/1fa5b67a-a614-4aa8-b20f-848176d65ab1"
+    (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/af8eef5a-1d65-4630-994e-2dc09fa9cc79/c90fad73-a552-42c3-bda6-0131cba9b7d8/1fa5b67a-a614-4aa8-b20f-848176d65ab1"
       (reference "#PWR024") (unit 1) (value "GND") (footprint "")
     )
     (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/9260049e-2ffc-47cd-ae90-24209d624d31/3a90ceed-d1af-4c00-a6f4-91702ea11da4"
@@ -1575,9 +1572,6 @@
     )
     (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/de0d3dea-3461-4e9e-bbd2-66457440d454"
       (reference "C5") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
-    )
-    (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/9c1a962c-2c8c-4e7f-9be8-adea54de0a96"
-      (reference "C6") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/bcc774a5-ad6d-4161-8aee-7d7fcb503ae2"
       (reference "C7") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -2158,10 +2152,10 @@
     (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/6ca7ddc6-3c5b-41e9-a7e8-7a013b14cec2"
       (reference "TP9") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
-    (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/af8eef5a-1d65-4630-994e-2dc09fa9cc79/c90fad73-a552-42c3-bda6-0131cba9b7d8/eb95fcdc-5e56-4141-87dd-1e66c700fa02"
+    (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/af8eef5a-1d65-4630-994e-2dc09fa9cc79/f4eb04ea-f65a-457e-ab30-6a8beed169b8/eb95fcdc-5e56-4141-87dd-1e66c700fa02"
       (reference "TP10") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
-    (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/af8eef5a-1d65-4630-994e-2dc09fa9cc79/f4eb04ea-f65a-457e-ab30-6a8beed169b8/eb95fcdc-5e56-4141-87dd-1e66c700fa02"
+    (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/af8eef5a-1d65-4630-994e-2dc09fa9cc79/c90fad73-a552-42c3-bda6-0131cba9b7d8/eb95fcdc-5e56-4141-87dd-1e66c700fa02"
       (reference "TP10") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
     (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/af8eef5a-1d65-4630-994e-2dc09fa9cc79/4feb0f41-7c3e-47fa-816c-00dac36bb30e/19af71c2-85bb-483b-b021-d62eec6fdeed"
@@ -2181,9 +2175,6 @@
     )
     (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/d40f1a07-6042-4628-ae12-9e2333e8d452"
       (reference "U3") (unit 1) (value "SN74LVC1G04DRY") (footprint "Inverter_SMD_TI:PSON50P145X100X60-6N-DRY0006A")
-    )
-    (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/0eb882a6-0146-441f-ab51-9906ef96f5f9"
-      (reference "U4") (unit 1) (value "SN74LVC1G07DRY") (footprint "Buffer_SMD_TI:PSON50P145X100X60-6N-DRY0006A")
     )
     (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/a80e4d87-5aa8-45bf-ab33-cad2800f8cb2"
       (reference "U5") (unit 1) (value "SN74HCS244") (footprint "Buffer_SMD_TI:RKS0020A")

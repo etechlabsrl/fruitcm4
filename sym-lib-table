@@ -3,6 +3,7 @@
   (lib (name "Buffer_SMD_TI")(type "KiCad")(uri "${KIPRJMOD}/library/Buffer_SMD_TI/Buffer_SMD_TI.kicad_sym")(options "")(descr ""))
   (lib (name "Capacitor_Tantalum_SMD_MyOwn")(type "KiCad")(uri "${KIPRJMOD}/library/Capacitor_Tantalum_SMD_MyOwn/Capacitor_Tantalum_SMD_MyOwn.kicad_sym")(options "")(descr ""))
   (lib (name "Connector_HDMI_Molex")(type "KiCad")(uri "${KIPRJMOD}/library/Connector_HDMI_Molex/Connector_HDMI_Molex.kicad_sym")(options "")(descr ""))
+  (lib (name "Connector_Header_Molex")(type "KiCad")(uri "${KIPRJMOD}/library/Connector_Header_Molex/Connector_Header_Molex.kicad_sym")(options "")(descr ""))
   (lib (name "Connector_Header_Samtec")(type "KiCad")(uri "${KIPRJMOD}/library/Connector_Header_Samtec/Connector_Header_Samtec.kicad_sym")(options "")(descr ""))
   (lib (name "Connector_M.2_TE")(type "KiCad")(uri "${KIPRJMOD}/library/Connector_M.2_TE/Connector_M.2_TE.kicad_sym")(options "")(descr ""))
   (lib (name "Connector_PCIe_MyOwn")(type "KiCad")(uri "${KIPRJMOD}/library/Connector_PCIe_MyOwn/Connector_PCIe_MyOwn.kicad_sym")(options "")(descr ""))
