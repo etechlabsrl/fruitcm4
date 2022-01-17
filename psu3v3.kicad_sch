@@ -439,7 +439,7 @@
   (no_connect (at 227.33 139.7) (uuid 8cafa459-24f7-4ce5-bcef-ea1229a57da8))
   (no_connect (at 227.33 134.62) (uuid 8cafa459-24f7-4ce5-bcef-ea1229a57da9))
   (no_connect (at 196.85 162.56) (uuid cf400ce4-3e65-410a-a972-f201cf70b7c7))
-  (no_connect (at 196.85 157.48) (uuid cf400ce4-3e65-410a-a972-f201cf70b7c7))
+  (no_connect (at 196.85 157.48) (uuid cf400ce4-3e65-410a-a972-f201cf70b7c8))
 
   (wire (pts (xy 212.09 132.08) (xy 212.09 134.62))
     (stroke (width 0) (type solid) (color 0 0 0 0))
@@ -1183,7 +1183,7 @@
     (property "Reference" "R61" (id 0) (at 318.135 133.35 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "260R" (id 1) (at 323.85 133.35 90)
+    (property "Value" "240R" (id 1) (at 323.85 133.35 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (id 2) (at 320.675 134.62 0)

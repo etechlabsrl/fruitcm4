@@ -1618,7 +1618,7 @@
     (property "Reference" "R66" (id 0) (at 316.865 111.76 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "600R" (id 1) (at 322.58 111.76 90)
+    (property "Value" "580R" (id 1) (at 322.58 111.76 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (id 2) (at 319.405 113.03 0)
