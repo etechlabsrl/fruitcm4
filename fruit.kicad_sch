@@ -1495,7 +1495,7 @@
     (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/ce8ac9c6-e023-4c9d-a942-5ab9224f3712/4368621c-ef86-4f0e-9fba-ab2088c69efa"
       (reference "#PWR035") (unit 1) (value "GND") (footprint "")
     )
-    (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/ce8ac9c6-e023-4c9d-a942-5ab9224f3712/ae511cc3-0039-4881-9fa2-5d67f7544fe5"
+    (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/ce8ac9c6-e023-4c9d-a942-5ab9224f3712/ab9fc409-0a8a-42ac-aa94-0fff615de4f3"
       (reference "#PWR036") (unit 1) (value "GND") (footprint "")
     )
     (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/e7328e16-4e2a-4e8a-8e7f-38dd534be68e/f3e247ef-bf2c-4aef-b309-881e0d1b661d"
@@ -1822,8 +1822,8 @@
     (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/9260049e-2ffc-47cd-ae90-24209d624d31/46fdef57-ee39-4cfe-8865-e41202742754"
       (reference "J6") (unit 1) (value "TSM-102-01-L-SV") (footprint "Connector_Header_Samtec:SAMTEC_TSM-102-01-L-SV")
     )
-    (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/ce8ac9c6-e023-4c9d-a942-5ab9224f3712/3d4078bd-79eb-4f12-a4b1-d76f212bba71"
-      (reference "J7") (unit 1) (value "PicoBlade_1x8_533980871_SMT") (footprint "Connector_PicoBlade_Molex:MOLEX_533980871")
+    (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/ce8ac9c6-e023-4c9d-a942-5ab9224f3712/4f188258-3fe8-47c3-9fca-7980b9e905b8"
+      (reference "J7") (unit 1) (value "MEM2067-02-180-00-A_REVB") (footprint "Connector_SD_GCT:GCT_MEM2067-02-180-00-A_REVB")
     )
     (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/e7328e16-4e2a-4e8a-8e7f-38dd534be68e/0e854d25-d675-42da-af2d-cc2004816775"
       (reference "J8") (unit 1) (value "PicoBlade_1x6_533980671_SMT") (footprint "Connector_PicoBlade_Molex:MOLEX_533980671")
