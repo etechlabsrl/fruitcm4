@@ -3413,7 +3413,7 @@
 
   (footprint "Capacitor_SMD:C_1206_3216Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 335dcba3-d560-4fc8-b5ed-440c6e4b0843)
-    (at 216.78 27.47)
+    (at 197.725 31.8)
     (descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Field7" "Murata")
@@ -4005,7 +4005,7 @@
 
   (footprint "Capacitor_SMD:C_1206_3216Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 41dfb0e8-c668-4288-b549-95d038dba148)
-    (at 222.43 24.12)
+    (at 197.725 34.2)
     (descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Field7" "Murata")
@@ -7556,7 +7556,7 @@
 
   (footprint "LED_SMD_LiteOn:LED_0603_1608Metric_green" (layer "F.Cu")
     (tedit 61AD953D) (tstamp 889ed62a-9231-44a3-a839-ab1d6a9981eb)
-    (at 216 33.765)
+    (at 215 32.8)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "MPN" "LTST-C193KGKT-5A")
@@ -7842,7 +7842,7 @@
 
   (footprint "Capacitor_SMD:C_1206_3216Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 927a7744-c6fc-429e-8779-08e1434e0fe4)
-    (at 216.78 24.12)
+    (at 193.125 29.4 180)
     (descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Field7" "Murata")
@@ -7875,9 +7875,9 @@
     (fp_line (start -1.6 -0.8) (end 1.6 -0.8) (layer "F.Fab") (width 0.1) (tstamp 4dbb1f18-be0a-47e2-a6cf-439087e78956))
     (fp_line (start 1.6 0.8) (end -1.6 0.8) (layer "F.Fab") (width 0.1) (tstamp 68d8f006-8e5d-4f09-9a76-88ad4815a80f))
     (fp_line (start -1.6 0.8) (end -1.6 -0.8) (layer "F.Fab") (width 0.1) (tstamp dc6db29f-9a17-4a99-9889-5ae107587f42))
-    (pad "1" smd roundrect locked (at -1.475 0) (size 1.15 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.217391)
+    (pad "1" smd roundrect locked (at -1.475 0 180) (size 1.15 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.217391)
       (net 118 "/CM4/CM4 PSU/+12V_IN") (pintype "passive") (tstamp 39f8f47b-1e26-4975-b4fd-b1002648ab5b))
-    (pad "2" smd roundrect locked (at 1.475 0) (size 1.15 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.217391)
+    (pad "2" smd roundrect locked (at 1.475 0 180) (size 1.15 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.217391)
       (net 1 "GND") (pintype "passive") (tstamp 1b6d5679-6c41-47b0-bb83-7a61811c2084))
     (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl"
       (offset (xyz 0 0 0))
@@ -8242,7 +8242,7 @@
 
   (footprint "Capacitor_SMD:C_1206_3216Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 93b9e563-bde6-455d-ab94-eb67dad5b813)
-    (at 216.78 30.82)
+    (at 197.725 29.4)
     (descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Field7" "Murata")
@@ -9577,7 +9577,7 @@
 
   (footprint "Capacitor_SMD:C_1206_3216Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp c012c783-cb72-46e0-8c5b-7dfeb0012620)
-    (at 225.48 19.37)
+    (at 193.125 31.8 180)
     (descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Field7" "Murata")
@@ -9610,9 +9610,9 @@
     (fp_line (start -1.6 -0.8) (end 1.6 -0.8) (layer "F.Fab") (width 0.1) (tstamp d96c508c-741c-4c72-92d0-853928b1746a))
     (fp_line (start -1.6 0.8) (end -1.6 -0.8) (layer "F.Fab") (width 0.1) (tstamp da9cf1d9-cc4c-4c81-b499-efff9ab62206))
     (fp_line (start 1.6 -0.8) (end 1.6 0.8) (layer "F.Fab") (width 0.1) (tstamp e55ce93c-21d8-45ba-9a73-128a2ffef115))
-    (pad "1" smd roundrect locked (at -1.475 0) (size 1.15 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.217391)
+    (pad "1" smd roundrect locked (at -1.475 0 180) (size 1.15 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.217391)
       (net 118 "/CM4/CM4 PSU/+12V_IN") (pintype "passive") (tstamp 574020f8-8e1f-4403-b2b8-abf8851caf2e))
-    (pad "2" smd roundrect locked (at 1.475 0) (size 1.15 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.217391)
+    (pad "2" smd roundrect locked (at 1.475 0 180) (size 1.15 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.217391)
       (net 1 "GND") (pintype "passive") (tstamp 5a88c3ca-46f9-43b3-85ca-af59be856a77))
     (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl"
       (offset (xyz 0 0 0))
@@ -11371,7 +11371,7 @@
 
   (footprint "Capacitor_SMD:C_1206_3216Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp f5cfccc3-db99-46dc-8940-89725fdc4aab)
-    (at 234.68 11.82)
+    (at 193.125 34.2 180)
     (descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Field7" "Murata")
@@ -11404,9 +11404,9 @@
     (fp_line (start 1.6 -0.8) (end 1.6 0.8) (layer "F.Fab") (width 0.1) (tstamp 2dd18991-7838-4d2f-9890-fed7b8a646c8))
     (fp_line (start -1.6 0.8) (end -1.6 -0.8) (layer "F.Fab") (width 0.1) (tstamp 4d775917-7d84-436d-8ebc-d4e3cef53c35))
     (fp_line (start 1.6 0.8) (end -1.6 0.8) (layer "F.Fab") (width 0.1) (tstamp d2bd9a9e-5aa9-413c-aa2a-5256d69cfbef))
-    (pad "1" smd roundrect locked (at -1.475 0) (size 1.15 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.217391)
+    (pad "1" smd roundrect locked (at -1.475 0 180) (size 1.15 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.217391)
       (net 118 "/CM4/CM4 PSU/+12V_IN") (pintype "passive") (tstamp b4288fb5-d816-428a-bf1d-351f305110b8))
-    (pad "2" smd roundrect locked (at 1.475 0) (size 1.15 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.217391)
+    (pad "2" smd roundrect locked (at 1.475 0 180) (size 1.15 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.217391)
       (net 1 "GND") (pintype "passive") (tstamp 56b1f7fb-2632-4425-9cec-3b271a10fb53))
     (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl"
       (offset (xyz 0 0 0))
