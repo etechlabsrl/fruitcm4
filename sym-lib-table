@@ -18,7 +18,7 @@
   (lib (name "LED_SMD_Everlight")(type "KiCad")(uri "${KIPRJMOD}/library/LED_SMD_Everlight/LED_SMD_Everlight.kicad_sym")(options "")(descr ""))
   (lib (name "LED_SMD_Inolux")(type "KiCad")(uri "${KIPRJMOD}/library/LED_SMD_Inolux/LED_SMD_Inolux.kicad_sym")(options "")(descr ""))
   (lib (name "LED_SMD_Kingbright")(type "KiCad")(uri "${KIPRJMOD}/library/LED_SMD_Kingbright/LED_SMD_Kingbright.kicad_sym")(options "")(descr ""))
-  (lib (name "LED_SMD_LiteOn")(type "KiCad")(uri "${KIPRJMOD}/library/LED_SMD_LiteOn/LED_SMD_LiteOn.kicad_sym")(options "")(descr ""))
+  (lib (name "LED_SMD_LITEON")(type "KiCad")(uri "${KIPRJMOD}/library/LED_SMD_LITEON/LED_SMD_LITEON.kicad_sym")(options "")(descr ""))
   (lib (name "Mechanical_CoolingBlock")(type "KiCad")(uri "${KIPRJMOD}/library/Mechanical_CoolingBlock/Mechanical_CoolingBlock.kicad_sym")(options "")(descr ""))
   (lib (name "Power_Protection_Diodes")(type "KiCad")(uri "${KIPRJMOD}/library/Power_Protection_Diodes/Power_Protection_Diodes.kicad_sym")(options "")(descr ""))
   (lib (name "Power_Protection_TI")(type "KiCad")(uri "${KIPRJMOD}/library/Power_Protection_TI/Power_Protection_TI.kicad_sym")(options "")(descr ""))

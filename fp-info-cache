@@ -1,4 +1,4 @@
-20007704047525382
+20002851478121483
 Analog_ADC_TI
 ADS7142IRUGR
 ADS7142 Nanopower, Dual-Channel, Programmable Sensor Monitor, I2C (reduced paste pad)
@@ -52577,13 +52577,6 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 2
 2
 Graphics
-goldbar_150x2.5mm
-
-
-0
-2
-0
-Graphics
 logo1_5x6.2
 
 
@@ -52598,7 +52591,21 @@ logo1_10x12
 0
 0
 Graphics
-logo1_15x18.7
+logo1_15x18.7_Cu
+
+
+0
+0
+0
+Graphics
+logo1_15x18.7_Cu_partial
+
+
+0
+0
+0
+Graphics
+logo1_15x18.7_silk
 
 
 0
@@ -56769,66 +56776,38 @@ PLCC-2 Pink
 0
 2
 2
-LED_SMD_LiteOn
-LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder_green
-LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-LED handsolder
+LED_SMD_LITEON
+LTST-C193KFKT-5A
+LITEON ~0603 ~1608 package, orange
+LED
 0
 2
 2
-LED_SMD_LiteOn
-LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder_orange
-LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-LED handsolder
+LED_SMD_LITEON
+LTST-C193KGKT-5A
+LITEON ~0603 ~1608 package, orange
+LED
 0
 2
 2
-LED_SMD_LiteOn
-LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder_red
-LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-LED handsolder
+LED_SMD_LITEON
+LTST-C193KRKT-5A
+LITEON ~0603 ~1608 package, orange
+LED
 0
 2
 2
-LED_SMD_LiteOn
-LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder_yellow
-LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-LED handsolder
+LED_SMD_LITEON
+LTST-C193KSKT-5A
+LITEON ~0603 ~1608 package, orange
+LED
 0
 2
 2
-LED_SMD_LiteOn
-LED_0603_1608Metric_blue
-LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-LED handsolder
-0
-2
-2
-LED_SMD_LiteOn
-LED_0603_1608Metric_green
-LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-LED handsolder
-0
-2
-2
-LED_SMD_LiteOn
-LED_0603_1608Metric_orange
-LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-LED handsolder
-0
-2
-2
-LED_SMD_LiteOn
-LED_0603_1608Metric_red
-LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-LED handsolder
-0
-2
-2
-LED_SMD_LiteOn
-LED_0603_1608Metric_yellow
-LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-LED handsolder
+LED_SMD_LITEON
+LTST-C193TBKT-5A
+LITEON ~0603 ~1608 package, orange
+LED
 0
 2
 2

@@ -69,6 +69,19 @@
     "version": 3
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "fruit.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": 3201,
+          "pos_y": 102,
+          "size_x": 2170,
+          "size_y": 975
+        }
+      }
+    ]
   }
 }

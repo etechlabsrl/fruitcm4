@@ -1789,9 +1789,6 @@
     (path "/dea4dc25-210d-4d9a-a284-cc7dbd6c8400"
       (reference "COOLER1") (unit 1) (value "53-61mm_NorthBridge_45deg_arms") (footprint "Mechanical_CoolingBlock:53-61mm_NorthBridge_45deg_arms")
     )
-    (path "/c9dd42ab-5b09-45b1-aea9-aad38fed4868/e7328e16-4e2a-4e8a-8e7f-38dd534be68e/45593183-4430-4a9b-a362-06171e8649ae"
-      (reference "D1") (unit 1) (value "LED Green") (footprint "LED_SMD_LiteOn:LED_0603_1608Metric_green")
-    )
     (path "/82b55f8d-9a72-435a-8561-e8a2f9059548"
       (reference "FID1") (unit 1) (value "Fiducial") (footprint "Fiducial:Fiducial_1mm_Mask2mm")
     )
