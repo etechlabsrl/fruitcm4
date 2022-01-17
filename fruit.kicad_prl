@@ -69,6 +69,19 @@
     "version": 3
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "fruit.kicad_sch",
+        "open": false,
+        "window": {
+          "display": 3,
+          "maximized": true,
+          "pos_x": 6383,
+          "pos_y": 112,
+          "size_x": 1717,
+          "size_y": 1071
+        }
+      }
+    ]
   }
 }
