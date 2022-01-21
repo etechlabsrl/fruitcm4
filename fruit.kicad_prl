@@ -74,10 +74,10 @@
         "name": "fruit.kicad_sch",
         "open": false,
         "window": {
-          "display": 3,
+          "display": 0,
           "maximized": true,
-          "pos_x": 6383,
-          "pos_y": 112,
+          "pos_x": 3486,
+          "pos_y": 115,
           "size_x": 1717,
           "size_y": 1071
         }
