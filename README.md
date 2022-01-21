@@ -21,7 +21,7 @@ The component projects are:
 - [Graft](https://github.com/salmonberrypi/graft), development board to bring up Fruit board, allows diversion to on-board connectors for rhizome served power and signals. Can be used with or without rhizome boards. (out of date)
 - [Thorn](https://github.com/salmonberrypi/thorn), passive board to protect the male plug on the Fruit or Graft boards. (out of date)
 - [Rhizome](https://github.com/salmonberrypi/rhizome), life support systems and connectivity
-
+- [Stem 3U x 160mm](https://github.com/salmonberrypi/stem_3U_160mm_X4), 3U x 160mm passive slot extension for debugging
 
 (images are from a previous revision and out of date, shown for reference)
 
